@@ -73,6 +73,7 @@ actions_dark  #001B2F
   background-color: #FAFAFA;
 }
 .calculator__history {
+  height: 33px;
   font-size: 24px;
   user-select: none;
 }
@@ -82,6 +83,7 @@ actions_dark  #001B2F
 
 }
 .calculator__total {
+  height: 44px;
   font-size: 32px;
   font-weight: 700;
 }
@@ -115,7 +117,7 @@ actions_dark  #001B2F
   pointer-events: none;/*запрещает отслеживание событий*/
 }
 .calculator__col:hover{
-  font-size: 38px;
+  font-size: 35px;
 }
 .calculator__col_reset {
   color: #FF6060;
